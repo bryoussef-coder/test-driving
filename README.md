@@ -2,4 +2,4 @@
 Practicing same test technique
 
 # links 
-https://www.youtube.com/watch?v=UMgxJvozR5A
+Pytest :: https://www.youtube.com/watch?v=UMgxJvozR5A
