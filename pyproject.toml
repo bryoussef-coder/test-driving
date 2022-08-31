@@ -1,0 +1,6 @@
+[tool.pytest.ini_options]
+markers = [
+    "ybr",
+    "autre",
+]
+#Source :: https://docs.pytest.org/en/stable/how-to/mark.html
